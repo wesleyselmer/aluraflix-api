@@ -1,5 +1,6 @@
-   {
-     {
+{
+  "videos": [
+    {
       "id": "1",
       "categoria": "1",
       "titulo": "O que faz uma desenvolvedora Front-End",
@@ -71,4 +72,5 @@
         "link": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
         "descricao": "Você sabia que o curso de Flutter que tem na Alura foi feito em parceria com o Nubank, um dos maiores cases de Flutter do mundo?"
       }
+  ]
 }
