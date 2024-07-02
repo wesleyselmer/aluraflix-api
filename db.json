@@ -1,0 +1,76 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "categoria": "1",
+      "titulo": "O que faz uma desenvolvedora Front-End",
+      "imagem": "https://i.ytimg.com/vi/ZY3-MFxVdEw/maxresdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+      "descricao": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa nesse episódio!"
+    },
+    {
+        "id": "2",
+        "categoria": "1",
+        "titulo": "ÁRVORE BINÁRIA de BUSCA | Estruturas de Dados #13",
+        "imagem": "https://i.ytimg.com/vi/VmKkAQtnjsM/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=VmKkAQtnjsM",
+        "descricao": "Neste vídeo, iniciamos a implementação de uma Árvore Binária de Busca, uma estrutura de dados que favorece a realização de buscas muito eficientes."
+      },
+      {
+        "id": "3",
+        "categoria": "1",
+        "titulo": "O que é e o que faz quem trabalha com UX?",
+        "imagem": "https://i.ytimg.com/vi/FJhMCi07T4A/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=FJhMCi07T4A",
+        "descricao": "Chegou o episódio com a musa brasileira de UX, a Carla de Bona! Entenda a Experiência do Usuário e porque ela é importante para qualquer negócio, seja de produtos ou serviços. "
+      },
+      {
+        "id": "4",
+        "categoria": "2",
+        "titulo": "O que estudar para ser desenvolvedor backend",
+        "imagem": "https://i.ytimg.com/vi/3Wo4L2dPS58/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=3Wo4L2dPS58",
+        "descricao": "Oie! No vídeo de hoje eu trouxe algumas dicas para começar os estudos para ser dev backend"
+      },
+      {
+        "id": "5",
+        "categoria": "2",
+        "titulo": "#5 Github CLI: A Solução para Todos os Problemas",
+        "imagem": "https://i.ytimg.com/vi/CMAVoUiEd7M/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=CMAVoUiEd7M",
+        "descricao": "Nessa série de vídeo, você irá ficar craque com a ferramenta que é indispensável para qualquer programador: O GIT."
+      },
+      {
+        "id": "6",
+        "categoria": "2",
+        "titulo": "Qual é a melhor linguagem de programação?",
+        "imagem": "https://i.ytimg.com/vi/Uh-GNH-t89w/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=Uh-GNH-t89w",
+        "descricao": "PHP, JavaScript, Python, Java e outras... qual é a melhor?"
+      },
+      {
+        "id": "7",
+        "categoria": "3",
+        "titulo": "Desenvolvimento Android",
+        "imagem": "https://i.ytimg.com/vi/fWscDFHKgw8/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=fWscDFHKgw8",
+        "descricao": "Um episódio focado no desenvolvimento de aplicações Android."
+      },
+      {
+        "id": "8",
+        "categoria": "3",
+        "titulo": "React Native // Dicionário do Programador",
+        "imagem": "https://i.ytimg.com/vi/mqltv3kFdgE/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=mqltv3kFdgE",
+        "descricao": "Venha descobrir porque o React Native está se tornando o framework queridinho para desenvolvimento de aplicativos mobile."
+      },
+      {
+        "id": "9",
+        "categoria": "3",
+        "titulo": "A Aula de Flutter Que Todo Mundo Deveria Ter",
+        "imagem": "https://i.ytimg.com/vi/J4BVaXkwmM8/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
+        "descricao": "Você sabia que o curso de Flutter que tem na Alura foi feito em parceria com o Nubank, um dos maiores cases de Flutter do mundo?"
+      }
+  ]
+}
